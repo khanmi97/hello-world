@@ -1,7 +1,0 @@
-C:\Users\khanm\Desktop\CSE 446\hw1q1_2\hw1q1_2\bin\hw1q1_2.dll.config
-C:\Users\khanm\Desktop\CSE 446\hw1q1_2\hw1q1_2\bin\hw1q1_2.dll
-C:\Users\khanm\Desktop\CSE 446\hw1q1_2\hw1q1_2\bin\hw1q1_2.pdb
-C:\Users\khanm\Desktop\CSE 446\hw1q1_2\hw1q1_2\obj\Debug\hw1q1_2.csprojAssemblyReference.cache
-C:\Users\khanm\Desktop\CSE 446\hw1q1_2\hw1q1_2\obj\Debug\hw1q1_2.csproj.CoreCompileInputs.cache
-C:\Users\khanm\Desktop\CSE 446\hw1q1_2\hw1q1_2\obj\Debug\hw1q1_2.dll
-C:\Users\khanm\Desktop\CSE 446\hw1q1_2\hw1q1_2\obj\Debug\hw1q1_2.pdb
