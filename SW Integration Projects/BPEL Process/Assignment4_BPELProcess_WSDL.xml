@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--WSDL file of BPEL Process-->
+  
+<definitions
+  xmlns:http="http://schemas.xmlsoap.org/wsdl/http/"
+  xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+  xmlns="http://schemas.xmlsoap.org/wsdl/"
+  xmlns:tns="http://tempuri.org/bpel/"
+  xmlns:passwordService="http://localhost:60325/Service1.xamlx"
+  xmlns:randomString="http://neptune.fulton.ad.asu.edu/WSRepository/Services/RandomStringSVC/Service.svc"
+  xmlns:plnk="http://schemas.xmlsoap.org/ws/2004/08/partner-link/">
+
+  <!--passwordService and randomString are the 2 services mentioned above (they are independent of one another)-->
+
+  <!--for password service-->
+  <types>
+    <xs:schema>
+    </xs:schema>
+  </types>
+  <message>
+    <part/>
+  </message>
+
+  <!--client requests to recieve validation for password-->
+  <portType name="clientPT">
+    <operation name="passwordCreation">
+      <input message="passwordRequestMessage"/>
+      <output message="passwordResponseMessage"/>
+    </operation>
+  </portType>
+  <!--client requests to receive random string; will call getRandomString method-->
+  
+  <portType name="callbackPT">
+    <operation name="...">
+      <input message="..."/>
+    </operation>
+  </portType>
+
+  <!--Definitions of partnet links-->
+  <plnk:partnerLinkType name="stringLT">
+    <!--stringService is the partner link between client and BPEL process-->
+    <plnk:role name="stringService">
+      <plnk:portType name="clientPT"/>
+    </plnk:role>
+  </plnk:partnerLinkType>
+  <!--(synchronous) partner link between BPEL process and passwordService-->
+  <plnk:parterLinkType name="checkPasswordLT">
+    <plnk:role name="passwordChecker">
+      <plnk:portType name="passwordService:checker"/>
+    </plnk:role>
+  <!--(asynchronous) partner link between BPEL process and randomStringGenerator (from ASU repository)-->
+  </plnk:parterLinkType>
+  <plnk:partnerLinkType name="getRandomStringLT">
+    <plnk:role name="randomStringGeneratorRequester">
+      <plnk:portType name="callbackPT"/>
+    </plnk:role>
+    <plnk:role name="randomStringGeneratorService">
+      <plnk:portType name="randomString:randomStringGeneratorServicePT"/>
+    </plnk:role>
+  </plnk:partnerLinkType>
+</definitions>

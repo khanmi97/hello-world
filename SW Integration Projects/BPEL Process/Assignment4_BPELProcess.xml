@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--Description of the BPEL Process: Client requests to create a password. The password must contain at least a digit or an uppercase letter. The BPEL 
+process calls the checkPassword from the service created in Assignment3. If the password creation is correct, the BPEL process calls the random string generator 
+(GetRandomStrign method) and the cliet receive the random string as a response-->
+
+<process name="CreatePasswordAndRandomStringGenerator"
+         xmlns="http://schemas.xmlsoap.org/ws/2003/03/business-process/"
+         xmlns:bpws="http://schemas.xmlsoap.org/ws/2003/03/business-process/"
+         xmlns:passwordService="http://localhost:60325/Service1.xamlx?wsdl"
+         xmlns:randomString="http://neptune.fulton.ad.asu.edu/WSRepository/Services/RandomStringSvc/Service.svc?wsdl">
+  
+  <!--partner link definition-->
+
+  <partnerLinks>
+    <partnerLink name="client"
+                 partnerLinkType="stringLT"
+                 myRole="stringService"/>
+    <partnerLink name="passwordChecker"
+                 partnerLinkTypes="passwordService: checkPasswordLT"
+                 partnerRole="CheckForCorrectPassword"/>
+    <partnerLink name="RandomStringGeneratorService"
+                 partnerLinkType="randomString: getRandomStringLT"
+                 myRole="randomStringGeneratorRequestor"
+                 partnerRole="randomStringGeneratorService"/>
+  </partnerLinks>
+  
+  <!--variables-->
+
+  <variables>
+    <!--input for BPEL-->
+    <variable name="PasswordRequest"
+              messageType="client:passwordRequestMessage"/>
+    <!--input for checking password-->
+    <variable name="checkPasswordRequest"
+              messageType="passwordService:checkPasswordRequestMessage"/>
+    <!--output for checking password-->
+    <variable name="checkPasswordResponse"
+              messageType="passwordService:checkPasswordResponseMessage"/>
+    <!--input for random string generator-->
+    <variable name="getRandomStringRequest"
+              messageType="randomString:getRandomStringRequestMessage"/>
+    <variable name="getRandomStringResponse"
+              messageType="randomString:getRandomStringResponseMessage"/>
+    <!--output for random string generator once password is valid from BPEL process-->
+    <variable name="passwordResponse"
+              messageType="client:passwordResponseMessage"/>
+    <variable name="InvalidPassword" type="xs:string"/>
+    
+  </variables>
+  
+  <!--Main-->
+
+  <sequence>
+    <!--Receive from client-->
+    <receive partnerLink="client"
+             portType="createPasswordPT"
+             operation="passwordCreation"
+             variable="PasswordRequest"
+             createInstance="yes"/>
+    <assign>
+      <copy>
+        <from variable="PasswordRequest" part="CC"/>
+        <to variable="checkPasswordRequest" part="CC"/>
+      </copy>
+    </assign>
+    
+    <!--Synchronously invoke password service-->
+    <flow>
+      <invoke partnerLink="passwordChecker"
+              portType="passwordService:checker"
+              operation="checkPassword"
+              inputariable="checkPasswordRequest"
+              outputvariable="checkPasswordResponse"/>
+    </flow>
+
+    <switch>
+      <case condition="bpws:getVariableData('checkPasswordResponse', 'passwordService:string') = Password Created!">
+        <!--Since password is valid, asynchronously call random string service-->
+        <flow>
+          <invoke partnerLink="randomStringGeneratorRequester"
+                  portType="callbackPT"
+                  operation="getRandomString"
+                  inputvariable="getRandomStringRequest"/>
+          <receive partnerLink="randomStringGeneratorService"
+                   portType="andomString:randomStringGeneratorServicePT"
+                   operation="getRandomString"
+                   outputservice="getRandomStringResponse"/>
+          <assign>
+            <copy>
+              <from variable="getRandomStringResponse"/>
+              <to variable="PasswordResponse"/>
+            </copy>
+          </assign>
+        </flow>
+        <otherwise>
+          <assign>
+            <copy>
+              <from variable="InvalidPassword"/>
+              <to variable="PasswordResponse"/>
+            </copy>
+          </assign>
+        </otherwise>
+      </case>
+    </switch>
+      <!--send the random string to the client which. the client will know that password is correct-->
+        <reply partnerLink="client"
+               portType="passwordService"
+               operation="passwordCreation"
+               variable="PasswordResponse"/>
+  
+  </sequence>
+  
+</process>
