@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--XML document for instrcutors list-->
+<Instructors>
+  <Instructor>
+    <Name>hansford</Name>
+    <Office>BYENG M1-02</Office>
+    <Email>Dianne.Hansford@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>lee</Name>
+    <Office>BYENG�586</Office>
+    <Email>Yhlee@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Selgrad</Name>
+    <Office>BYENG 514</Office>
+    <Email>Justin.Selgrad@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>atkinson</Name>
+    <Office>BYENG 362</Office>
+    <Email>Robert.Atkinson@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Feng</Name>
+    <Office>BYENG�512</Office>
+    <Email>xuerong.feng@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>miller</Name>
+    <Office>BYENG�436</Office>
+    <Email>Phill.Miller@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>faye</Name>
+    <Office>BYENG�518</Office>
+    <Email>navabi@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>aviral</Name>
+    <Office>CTRPT�203-15</Office>
+    <Email>Aviral.Shrivastava@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>syrotiuk</Name>
+    <Office>BYENG�434</Office>
+    <Email>syrotiuk@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Sarjoughian</Name>
+    <Office>BYENG�476</Office>
+    <Email>Sarjoughian@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Richa</Name>
+    <Office>BYENG�440</Office>
+    <Email>Aricha@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>tiffany bao</Name>
+    <Office>na</Office>
+    <Email>Tbao@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>mutsumi</Name>
+    <Office>BYENG�520</Office>
+    <Email>Mutsumi@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Yalin Yang</Name>
+    <Office>BYENG�432</Office>
+    <Email>yang@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>caliss</Name>
+    <Office>BYENG 524</Office>
+    <Email>Debra.Calliss@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Chen</Name>
+    <Office>BYENG 414</Office>
+    <Email>Yinong.Chen@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Gil</Name>
+    <Office>BYENG 386</Office>
+    <Email>sgil@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>xue</Name>
+    <Office>BYENG�442</Office>
+    <Email>xue@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>yezhou yang</Name>
+    <Office>BYENG 562</Office>
+    <Email>yz.yang@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>FENGBO</Name>
+    <Office>na</Office>
+    <Email>renfengbo@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Meuth</Name>
+    <Office>BYENG 438</Office>
+    <Email>rmeuth@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>DASGUPTA</Name>
+    <Office>BYENG�428</Office>
+    <Email>partha@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Ayan</Name>
+    <Office>BYENG 517</Office>
+    <Email>Ayan.Banerjee@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>ZHAO</Name>
+    <Office>BYENG 412</Office>
+    <Email>mingzhao@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>janaka</Name>
+    <Office>BYENG 578</Office>
+    <Email>Janaka.Balasooriya@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Bazzi</Name>
+    <Office>BYENG�430</Office>
+    <Email>Bazzi@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Ben Amor</Name>
+    <Office>CTRPT 203</Office>
+    <Email>Hani.Benamor@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>Fainekos</Name>
+    <Office>CTRPT�203-17</Office>
+    <Email>Fainekos@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>colbourn</Name>
+    <Office>BYENG�444</Office>
+    <Email>Charles.Colbourn@asu.edu</Email>
+  </Instructor>
+  <Instructor>
+    <Name>sarwat</Name>
+    <Office>BYENG�404</Office>
+    <Email>Msarwat@asu.edu</Email>
+  </Instructor>
+</Instructors>

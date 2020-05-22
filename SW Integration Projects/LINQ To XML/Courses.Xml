@@ -1,0 +1,1932 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Q 2.1: In-memory XML file of objects of Course class-->
+<Courses>
+  <Course>
+    <Subject>ASU</Subject>
+    <CourseCode>101</CourseCode>
+    <ClassNbr>13023</ClassNbr>
+    <CourseTitle>The ASU Experience</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>ASU</Subject>
+    <CourseCode>101</CourseCode>
+    <ClassNbr>30641</ClassNbr>
+    <CourseTitle>The ASU Experience</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>ASU</Subject>
+    <CourseCode>101</CourseCode>
+    <ClassNbr>31622</ClassNbr>
+    <CourseTitle>The ASU Experience</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>ASU</Subject>
+    <CourseCode>101</CourseCode>
+    <ClassNbr>31623</ClassNbr>
+    <CourseTitle>Special Topics</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>101</CourseCode>
+    <ClassNbr>12069</ClassNbr>
+    <CourseTitle>Introduction to Informatics</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>hansford</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>111</CourseCode>
+    <ClassNbr>19589</ClassNbr>
+    <CourseTitle>Game Development I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Yoshi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>200</CourseCode>
+    <ClassNbr>16390</ClassNbr>
+    <CourseTitle>Math Foundation of Informatics</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>hansford</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>211</CourseCode>
+    <ClassNbr>12302</ClassNbr>
+    <CourseTitle>Game Development II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Selgrad</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>221</CourseCode>
+    <ClassNbr>18204</ClassNbr>
+    <CourseTitle>Advan Obj Orient Prin w/Java</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Selgrad</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>321</CourseCode>
+    <ClassNbr>12662</ClassNbr>
+    <CourseTitle>Fundamentals of Game Art</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>yoshi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>350</CourseCode>
+    <ClassNbr>14056</ClassNbr>
+    <CourseTitle>Eval of Informatics Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>atkinson</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>411</CourseCode>
+    <ClassNbr>17633</ClassNbr>
+    <CourseTitle>Civic informatics</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>yoshi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CPI</Subject>
+    <CourseCode>441</CourseCode>
+    <ClassNbr>12597</ClassNbr>
+    <CourseTitle>Graphics for Games</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Yoshi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>11257</ClassNbr>
+    <CourseTitle>Gaming Capstone</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>22208</ClassNbr>
+    <CourseTitle>Informatics Capstone I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>22209</ClassNbr>
+    <CourseTitle>Informatics Capstone I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>11241</ClassNbr>
+    <CourseTitle>Informatics Capstone II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>11320</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>15635</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>22207</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>11226</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Possible Kevin</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>13822</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>16391</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>17628</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>16392</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>22206</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>11229</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>11265</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29097</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29096</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>11321</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29092</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29109</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>11335</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29104</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29099</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29106</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>16393</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>15650</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>17635</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29095</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>19590</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29094</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29101</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29107</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>11232</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Possible Kevin</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>22210</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29105</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29093</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29103</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>11251</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29102</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>29098</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>11224</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Hartin</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>11295</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Millman</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>11356</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Matar</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>13386</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Millman</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>15568</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Goryll</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>17577</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ewaisha</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>20447</ClassNbr>
+    <CourseTitle>Principles of Programming</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Matar</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>22050</ClassNbr>
+    <CourseTitle>Object-Oriented Program &amp; Data</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Millman</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>28713</ClassNbr>
+    <CourseTitle>Object-Oriented Program &amp; Data</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>205</CourseCode>
+    <ClassNbr>11343</ClassNbr>
+    <CourseTitle>Object-Oriented Program &amp; Data</CourseTitle>
+    <Location>ICOURSE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>205</CourseCode>
+    <ClassNbr>15990</ClassNbr>
+    <CourseTitle>Object-Oriented Program &amp; Data</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>mutsumi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>205</CourseCode>
+    <ClassNbr>20461</ClassNbr>
+    <CourseTitle>Object-Oriented Program &amp; Data</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>205</CourseCode>
+    <ClassNbr>16400</ClassNbr>
+    <CourseTitle>Object-Oriented Program &amp; Data</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>205</CourseCode>
+    <ClassNbr>11333</ClassNbr>
+    <CourseTitle>Programming for Computer Engr</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>miller</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>205</CourseCode>
+    <ClassNbr>11261</ClassNbr>
+    <CourseTitle>Computer Org/Assemb Lang Prog</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>mutsumi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>205</CourseCode>
+    <ClassNbr>12775</ClassNbr>
+    <CourseTitle>Computer Org/Assemb Lang Prog</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>220</CourseCode>
+    <ClassNbr>11300</ClassNbr>
+    <CourseTitle>Intro to Programming Languages</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Yalin Wang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>230</CourseCode>
+    <ClassNbr>11217</ClassNbr>
+    <CourseTitle>Intro to Programming Languages</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>calliss</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>230</CourseCode>
+    <ClassNbr>15654</ClassNbr>
+    <CourseTitle>Logic in Computer Science</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>mutsumi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>240</CourseCode>
+    <ClassNbr>13806</ClassNbr>
+    <CourseTitle>Logic in Computer Science</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>chen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>240</CourseCode>
+    <ClassNbr>30957</ClassNbr>
+    <CourseTitle>Logic in Computer Science</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Chen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>240</CourseCode>
+    <ClassNbr>11262</ClassNbr>
+    <CourseTitle>Logic in Computer Science</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>selgrad</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>259</CourseCode>
+    <ClassNbr>21266</ClassNbr>
+    <CourseTitle>Computing Ethics</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Steve Osburn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>259</CourseCode>
+    <ClassNbr>21243</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Steve Osburn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>259</CourseCode>
+    <ClassNbr>21267</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Steve Osburn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>259</CourseCode>
+    <ClassNbr>22355</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Steve Osburn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>19683</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>ICOURSE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>27283</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>23306</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>yezhou yang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>29114</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>19682</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>23309</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>11724</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>19687</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>23307</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>19688</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>23310</ClassNbr>
+    <CourseTitle>Design/Syn Digital Hardware</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>yezhou yang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>19684</ClassNbr>
+    <CourseTitle>Design/Syn Digital Hardware</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>23308</ClassNbr>
+    <CourseTitle>Design/Syn Digital Hardware</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>yezhou yang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>19685</ClassNbr>
+    <CourseTitle>Embedded Microprocessor System</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>19686</ClassNbr>
+    <CourseTitle>Embedded Microprocessor System</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>xue</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>320</CourseCode>
+    <ClassNbr>11274</ClassNbr>
+    <CourseTitle>Embedded Microprocessor System</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>FENGBO</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>320</CourseCode>
+    <ClassNbr>21374</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>FENGBO</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>320</CourseCode>
+    <ClassNbr>21373</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>FENGBO</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>325</CourseCode>
+    <ClassNbr>19690</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Meuth</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>325</CourseCode>
+    <ClassNbr>19691</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Meuth</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>325</CourseCode>
+    <ClassNbr>18820</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Meuth</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>21168</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>DASGUPTA</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>20876</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ayan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>21169</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>DASGUPTA</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>20872</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>ZHAO</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>19457</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>DASGUPTA</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>11269</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>ZHAO</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>20877</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ayan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>21171</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>DASGUPTA</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>20875</ClassNbr>
+    <CourseTitle>Operating Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ayan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>20878</ClassNbr>
+    <CourseTitle>Princ of Mobile App Dev</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ayan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>13028</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ayan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>20874</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>ZHAO</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>330</CourseCode>
+    <ClassNbr>20873</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>ZHAO</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>335</CourseCode>
+    <ClassNbr>21044</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>janaka</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>19695</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>11315</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>29115</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>14190</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>19696</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>19692</ClassNbr>
+    <CourseTitle>Principles of Programming Lang</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>19693</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>19698</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>340</CourseCode>
+    <ClassNbr>19697</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bazzi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19708</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ben Amor</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19705</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Fainekos</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19702</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>colbourn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19707</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ben Amor</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19710</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ben Amor</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>14505</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>colbourn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19703</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Fainekos</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>23314</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Fainekos</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19701</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>colbourn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19709</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ben Amor</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19706</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Fainekos</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19704</ClassNbr>
+    <CourseTitle>Intro Theoretical Computer Sci</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Fainekos</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>19700</ClassNbr>
+    <CourseTitle>Intro to Software Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>colbourn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>355</CourseCode>
+    <ClassNbr>23315</ClassNbr>
+    <CourseTitle>Intro to Software Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ben Amor</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>360</CourseCode>
+    <ClassNbr>11301</ClassNbr>
+    <CourseTitle>Information Assurance</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>callis</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>360</CourseCode>
+    <ClassNbr>26013</ClassNbr>
+    <CourseTitle>Multimedia Information Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>callis</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>365</CourseCode>
+    <ClassNbr>21120</ClassNbr>
+    <CourseTitle>Database Management</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>fish wang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>365</CourseCode>
+    <ClassNbr>30853</ClassNbr>
+    <CourseTitle>Computer Architecture I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>fish wang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>408</CourseCode>
+    <ClassNbr>21593</ClassNbr>
+    <CourseTitle>Systems Capstone Project I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>412</CourseCode>
+    <ClassNbr>21128</ClassNbr>
+    <CourseTitle>Systems Capstone Project I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>sarwat</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>420</CourseCode>
+    <ClassNbr>11268</ClassNbr>
+    <CourseTitle>Systems Capstone Project I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>aviral</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>423</CourseCode>
+    <ClassNbr>13030</ClassNbr>
+    <CourseTitle>Systems Capstone Project I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Meuth</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>423</CourseCode>
+    <ClassNbr>13030</ClassNbr>
+    <CourseTitle>Systems Capstone Project II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Meuth</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>424</CourseCode>
+    <ClassNbr>11212</ClassNbr>
+    <CourseTitle>Systems Capstone Project II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>meuth</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>424</CourseCode>
+    <ClassNbr>11212</ClassNbr>
+    <CourseTitle>Systems Capstone Project II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Meuth</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>434</CourseCode>
+    <ClassNbr>11223</ClassNbr>
+    <CourseTitle>Systems Capstone Project II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>syrotiuk</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>445</CourseCode>
+    <ClassNbr>11326</ClassNbr>
+    <CourseTitle>Computer Networks</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>janaka</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>446</CourseCode>
+    <ClassNbr>14506</ClassNbr>
+    <CourseTitle>Distributed Software Developmt</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>chen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>450</CourseCode>
+    <ClassNbr>21121</ClassNbr>
+    <CourseTitle>Software Integration and Engr</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Richa</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>460</CourseCode>
+    <ClassNbr>11725</ClassNbr>
+    <CourseTitle>Design&amp;Analysis of Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Sarjoughian</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>463</CourseCode>
+    <ClassNbr>14179</ClassNbr>
+    <CourseTitle>Software Analysis and Design</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Atkinson</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>464</CourseCode>
+    <ClassNbr>21784</ClassNbr>
+    <CourseTitle>Intro Human Computer Interactn</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>janaka</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>469</CourseCode>
+    <ClassNbr>14518</ClassNbr>
+    <CourseTitle>Software QA and Testing</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>tiffany bao</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>470</CourseCode>
+    <ClassNbr>20425</ClassNbr>
+    <CourseTitle>Computer and Network Forensics</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>hansford</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>471</CourseCode>
+    <ClassNbr>13070</ClassNbr>
+    <CourseTitle>Computer Graphics</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Gil</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>485</CourseCode>
+    <ClassNbr>20117</ClassNbr>
+    <CourseTitle>Intro Artificial Intelligence</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>485</CourseCode>
+    <ClassNbr>23019</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>485</CourseCode>
+    <ClassNbr>30990</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>485</CourseCode>
+    <ClassNbr>13081</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>485</CourseCode>
+    <ClassNbr>20118</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>485</CourseCode>
+    <ClassNbr>20119</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>485</CourseCode>
+    <ClassNbr>26090</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>485</CourseCode>
+    <ClassNbr>30991</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>486</CourseCode>
+    <ClassNbr>17141</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>486</CourseCode>
+    <ClassNbr>19979</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>486</CourseCode>
+    <ClassNbr>19293</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>486</CourseCode>
+    <ClassNbr>20121</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj I</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>486</CourseCode>
+    <ClassNbr>20120</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>486</CourseCode>
+    <ClassNbr>11222</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>helen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>510</CourseCode>
+    <ClassNbr>13029</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>candan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>512</CourseCode>
+    <ClassNbr>21124</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>sarwat</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>520</CourseCode>
+    <ClassNbr>21131</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>lee</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>530</CourseCode>
+    <ClassNbr>32110</ClassNbr>
+    <CourseTitle>Embed Operating Sys Internals</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>lee</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>535</CourseCode>
+    <ClassNbr>19325</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ayan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>543</CourseCode>
+    <ClassNbr>27374</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>yau</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>545</CourseCode>
+    <ClassNbr>18810</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>yau</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>546</CourseCode>
+    <ClassNbr>21127</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>zhao</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>551</CourseCode>
+    <ClassNbr>23343</ClassNbr>
+    <CourseTitle>Computer Sci Capstone Proj II</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>sen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>551</CourseCode>
+    <ClassNbr>30959</ClassNbr>
+    <CourseTitle>Introduction to Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>sen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>555</CourseCode>
+    <ClassNbr>27203</ClassNbr>
+    <CourseTitle>Introduction to Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>colbourn</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>564</CourseCode>
+    <ClassNbr>27211</ClassNbr>
+    <CourseTitle>Grand Challenges for Engrg</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>sarjoughian</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>566</CourseCode>
+    <ClassNbr>11339</ClassNbr>
+    <CourseTitle>Tech; Social; &amp; Sustain System</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>collofello</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>571</CourseCode>
+    <ClassNbr>27252</ClassNbr>
+    <CourseTitle>Topic: Exploring Leadership Potential</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Zhang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>572</CourseCode>
+    <ClassNbr>25946</ClassNbr>
+    <CourseTitle>Entrepreneur &amp; Value Creation</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ayan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>572</CourseCode>
+    <ClassNbr>30961</ClassNbr>
+    <CourseTitle>Topic: Academic Success and Professional Development</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>AYAN</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>573</CourseCode>
+    <ClassNbr>27254</ClassNbr>
+    <CourseTitle>Strategic Enterprise Innovatin</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Davulcu</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>575</CourseCode>
+    <ClassNbr>27223</ClassNbr>
+    <CourseTitle>Intro Industrial Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Yang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>576</CourseCode>
+    <ClassNbr>23382</ClassNbr>
+    <CourseTitle>Business/Industrial Engr</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>chitta baral</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>578</CourseCode>
+    <ClassNbr>30962</ClassNbr>
+    <CourseTitle>Economic Analys for Engineers</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>hsiao</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>591</CourseCode>
+    <ClassNbr>27953</ClassNbr>
+    <CourseTitle>Seminar</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Liang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>591</CourseCode>
+    <ClassNbr>27334</ClassNbr>
+    <CourseTitle>Seminar</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Yu Zhang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>591</CourseCode>
+    <ClassNbr>32123</ClassNbr>
+    <CourseTitle>Seminar</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Fainekos</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>591</CourseCode>
+    <ClassNbr>16401</ClassNbr>
+    <CourseTitle>Seminar</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Yang</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>591</CourseCode>
+    <ClassNbr>18782</ClassNbr>
+    <CourseTitle>Seminar</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Amor</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>FSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>27635</ClassNbr>
+    <CourseTitle>Introduction to Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Chen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>FSE</Subject>
+    <CourseCode>100</CourseCode>
+    <ClassNbr>83218</ClassNbr>
+    <CourseTitle>Introduction to Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Meuth</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>FSE</Subject>
+    <CourseCode>150</CourseCode>
+    <ClassNbr>82455</ClassNbr>
+    <CourseTitle>Grand Challenges for Engrg</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Trowbridge</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>FSE</Subject>
+    <CourseCode>181</CourseCode>
+    <ClassNbr>79345</ClassNbr>
+    <CourseTitle>Tech; Social; &amp; Sustain System</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Allenby</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>FSE</Subject>
+    <CourseCode>194</CourseCode>
+    <ClassNbr>90190</ClassNbr>
+    <CourseTitle>Topic: Exploring Leadership Potential</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Silva</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>FSE</Subject>
+    <CourseCode>301</CourseCode>
+    <ClassNbr>87876</ClassNbr>
+    <CourseTitle>Entrepreneur &amp; Value Creation</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Troness</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>FSE</Subject>
+    <CourseCode>394</CourseCode>
+    <ClassNbr>85759</ClassNbr>
+    <CourseTitle>Topic: Academic Success and Professional Development</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Anderson-Rowland</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>FSE</Subject>
+    <CourseCode>502</CourseCode>
+    <ClassNbr>92378</ClassNbr>
+    <CourseTitle>Strategic Enterprise Innovatin</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Trappen</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>210</CourseCode>
+    <ClassNbr>71307</ClassNbr>
+    <CourseTitle>Intro Industrial Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Clough</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>220</CourseCode>
+    <ClassNbr>73291</ClassNbr>
+    <CourseTitle>Business/Industrial Engr</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Fleischner</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>300</CourseCode>
+    <ClassNbr>71308</ClassNbr>
+    <CourseTitle>Economic Analys for Engineers</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Jennings</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>376</CourseCode>
+    <ClassNbr>71310</ClassNbr>
+    <CourseTitle>Oper Rsrch Det Tech/Apps</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Mirchandani</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>380</CourseCode>
+    <ClassNbr>77308</ClassNbr>
+    <CourseTitle>Prob &amp; Stats Engr Prob Solving</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Chattin</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>380</CourseCode>
+    <ClassNbr>87728</ClassNbr>
+    <CourseTitle>Prob &amp; Stats Engr Prob Solving</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Bren</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>385</CourseCode>
+    <ClassNbr>80376</ClassNbr>
+    <CourseTitle>Engr Statistics - Probability</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Chattin</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>394</CourseCode>
+    <ClassNbr>78677</ClassNbr>
+    <CourseTitle>Topic: Extreme Excel</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>McCarville</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>412</CourseCode>
+    <ClassNbr>80379</ClassNbr>
+    <CourseTitle>Intro to Financial Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>McCarville</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>426</CourseCode>
+    <ClassNbr>91345</ClassNbr>
+    <CourseTitle>Operations Rrsch in Healthcare</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Wu</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>431</CourseCode>
+    <ClassNbr>91929</ClassNbr>
+    <CourseTitle>Engineering Administration</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Jennings</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>437</CourseCode>
+    <ClassNbr>71311</ClassNbr>
+    <CourseTitle>Human Factors Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Parry</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>454</CourseCode>
+    <ClassNbr>77730</ClassNbr>
+    <CourseTitle>Risk Management</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>McCarville</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>461</CourseCode>
+    <ClassNbr>77813</ClassNbr>
+    <CourseTitle>Production Control</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Chattin</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>470</CourseCode>
+    <ClassNbr>72508</ClassNbr>
+    <CourseTitle>Stochastic Operations Research</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ju</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>474</CourseCode>
+    <ClassNbr>74270</ClassNbr>
+    <CourseTitle>Quality Control</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Li</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>506</CourseCode>
+    <ClassNbr>91213</ClassNbr>
+    <CourseTitle>Web-Enabled Decn Support Systs</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Ye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>511</CourseCode>
+    <ClassNbr>75531</ClassNbr>
+    <CourseTitle>Analysis of Decision Processes</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Mirchandani</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>512</CourseCode>
+    <ClassNbr>91879</ClassNbr>
+    <CourseTitle>Intro to Financial Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>McCarville</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>520</CourseCode>
+    <ClassNbr>72692</ClassNbr>
+    <CourseTitle>Stat Learning for Data Mining</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Runger</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>526</CourseCode>
+    <ClassNbr>91346</ClassNbr>
+    <CourseTitle>Operations Rrsch in Healthcare</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Wu</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>545</CourseCode>
+    <ClassNbr>91992</ClassNbr>
+    <CourseTitle>Simulating Stochastic Systems</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Staff</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>547</CourseCode>
+    <ClassNbr>71313</ClassNbr>
+    <CourseTitle>Human Factors Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Parry</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>571</CourseCode>
+    <ClassNbr>92066</ClassNbr>
+    <CourseTitle>Quality Management</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Jennings</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>572</CourseCode>
+    <ClassNbr>75775</ClassNbr>
+    <CourseTitle>Design Engineering Experiments</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Montgomery</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>573</CourseCode>
+    <ClassNbr>91770</ClassNbr>
+    <CourseTitle>Reliability Engineering</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Pan</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>110</CourseCode>
+    <ClassNbr>10000</ClassNbr>
+    <CourseTitle>Prin of Programming with C++</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Faye</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>ASU</Subject>
+    <CourseCode>101</CourseCode>
+    <ClassNbr>10001</ClassNbr>
+    <CourseTitle>ASU Experience</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Micheal</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>PSY</Subject>
+    <CourseCode>101</CourseCode>
+    <ClassNbr>10002</ClassNbr>
+    <CourseTitle>Intro to Psychology</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Mae</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>120</CourseCode>
+    <ClassNbr>10003</ClassNbr>
+    <CourseTitle>Digital Design</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Chikamenhalli</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>205</CourseCode>
+    <ClassNbr>10004</ClassNbr>
+    <CourseTitle>Object-Oriented Program &amp; Data</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>mutsumi</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>BIO</Subject>
+    <CourseCode>182</CourseCode>
+    <ClassNbr>10005</ClassNbr>
+    <CourseTitle>Biology 2</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Shaffer</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>IEE</Subject>
+    <CourseCode>380</CourseCode>
+    <ClassNbr>10006</ClassNbr>
+    <CourseTitle>Prob &amp; Stats Engr Prob Solving</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Clough</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>MAT</Subject>
+    <CourseCode>240</CourseCode>
+    <ClassNbr>10007</ClassNbr>
+    <CourseTitle>Discrete Math</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Knutson</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>CSE</Subject>
+    <CourseCode>310</CourseCode>
+    <ClassNbr>10008</ClassNbr>
+    <CourseTitle>Data Structures and Algorithms</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>Feng</InstLastNm>
+  </Course>
+  <Course>
+    <Subject>ASU</Subject>
+    <CourseCode>471</CourseCode>
+    <ClassNbr>10009</ClassNbr>
+    <CourseTitle>Intro to AI</CourseTitle>
+    <Location>TEMPE</Location>
+    <InstLastNm>kambhapati</InstLastNm>
+  </Course>
+</Courses>

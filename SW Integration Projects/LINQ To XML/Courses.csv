@@ -1,0 +1,242 @@
+﻿Subject,CourseCode,Class Nbr,Course Title,Location,Inst Last Nm
+ASU,101,13023,The ASU Experience,TEMPE,Staff
+ASU,101,30641,The ASU Experience,TEMPE,Staff
+ASU,101,31622,The ASU Experience,TEMPE,Staff
+ASU,101,31623,Special Topics,TEMPE,Staff
+CPI,101,12069,Introduction to Informatics,TEMPE,hansford
+CPI,111,19589,Game Development I,TEMPE,Yoshi
+CPI,200,16390,Math Foundation of Informatics,TEMPE,hansford
+CPI,211,12302,Game Development II,TEMPE,Selgrad
+CPI,221,18204,Advan Obj Orient Prin w/Java,TEMPE,Selgrad
+CPI,321,12662,Fundamentals of Game Art,TEMPE,yoshi
+CPI,350,14056,Eval of Informatics Systems,TEMPE,atkinson
+CPI,411,17633,Civic informatics,TEMPE,yoshi
+CPI,441,12597,Graphics for Games,TEMPE,Yoshi
+CSE,100,11257,Gaming Capstone,TEMPE,Staff
+CSE,100,22208,Informatics Capstone I,TEMPE,Feng
+CSE,100,22209,Informatics Capstone I,TEMPE,Feng
+CSE,100,11241,Informatics Capstone II,TEMPE,Staff
+CSE,100,11320,Prin of Programming with C++,TEMPE,Staff
+CSE,100,15635,Prin of Programming with C++,TEMPE,Feng
+CSE,100,22207,Prin of Programming with C++,TEMPE,Feng
+CSE,100,11226,Prin of Programming with C++,TEMPE,Possible Kevin
+CSE,100,13822,Prin of Programming with C++,TEMPE,Feng
+CSE,100,16391,Prin of Programming with C++,TEMPE,Feng
+CSE,100,17628,Prin of Programming with C++,TEMPE,Feng
+CSE,100,16392,Prin of Programming with C++,TEMPE,Feng
+CSE,100,22206,Prin of Programming with C++,TEMPE,Staff
+CSE,100,11229,Prin of Programming with C++,TEMPE,Staff
+CSE,100,11265,Prin of Programming with C++,TEMPE,Staff
+CSE,110,29097,Prin of Programming with C++,TEMPE,miller
+CSE,110,29096,Prin of Programming with C++,TEMPE,miller
+CSE,110,11321,Prin of Programming with C++,TEMPE,Staff
+CSE,110,29092,Prin of Programming with C++,TEMPE,miller
+CSE,110,29109,Principles of Programming,TEMPE,Miller
+CSE,110,11335,Principles of Programming,TEMPE,Staff
+CSE,110,29104,Principles of Programming,TEMPE,faye
+CSE,110,29099,Principles of Programming,TEMPE,faye
+CSE,110,29106,Principles of Programming,TEMPE,faye
+CSE,110,16393,Principles of Programming,TEMPE,miller
+CSE,110,15650,Principles of Programming,TEMPE,Staff
+CSE,110,17635,Principles of Programming,TEMPE,Staff
+CSE,110,29095,Principles of Programming,TEMPE,miller
+CSE,110,19590,Principles of Programming,TEMPE,Staff
+CSE,110,29094,Principles of Programming,TEMPE,miller
+CSE,110,29101,Principles of Programming,TEMPE,faye
+CSE,110,29107,Principles of Programming,TEMPE,faye
+CSE,110,11232,Principles of Programming,TEMPE,Possible Kevin
+CSE,110,22210,Principles of Programming,TEMPE,Staff
+CSE,110,29105,Principles of Programming,TEMPE,faye
+CSE,110,29093,Principles of Programming,TEMPE,miller
+CSE,110,29103,Principles of Programming,TEMPE,faye
+CSE,110,11251,Principles of Programming,TEMPE,Staff
+CSE,110,29102,Principles of Programming,TEMPE,faye
+CSE,110,29098,Principles of Programming,TEMPE,miller
+CSE,120,11224,Principles of Programming,TEMPE,Hartin
+CSE,120,11295,Principles of Programming,TEMPE,Millman
+CSE,120,11356,Principles of Programming,TEMPE,Matar
+CSE,120,13386,Principles of Programming,TEMPE,Millman
+CSE,120,15568,Principles of Programming,TEMPE,Goryll
+CSE,120,17577,Principles of Programming,TEMPE,Ewaisha
+CSE,120,20447,Principles of Programming,TEMPE,Matar
+CSE,120,22050,Object-Oriented Program & Data,TEMPE,Millman
+CSE,120,28713,Object-Oriented Program & Data,TEMPE,Staff
+CSE,205,11343,Object-Oriented Program & Data,ICOURSE,faye
+CSE,205,15990,Object-Oriented Program & Data,TEMPE,mutsumi
+CSE,205,20461,Object-Oriented Program & Data,TEMPE,faye
+CSE,205,16400,Object-Oriented Program & Data,TEMPE,feng
+CSE,205,11333,Programming for Computer Engr,TEMPE,miller
+CSE,205,11261,Computer Org/Assemb Lang Prog,TEMPE,mutsumi
+CSE,205,12775,Computer Org/Assemb Lang Prog,TEMPE,feng
+CSE,220,11300,Intro to Programming Languages,TEMPE,Yalin Wang
+CSE,230,11217,Intro to Programming Languages,TEMPE,calliss
+CSE,230,15654,Logic in Computer Science,TEMPE,mutsumi
+CSE,240,13806,Logic in Computer Science,TEMPE,chen
+CSE,240,30957,Logic in Computer Science,TEMPE,Chen
+CSE,240,11262,Logic in Computer Science,TEMPE,selgrad
+CSE,259,21266,Computing Ethics,TEMPE,Steve Osburn
+CSE,259,21243,Data Structures and Algorithms,TEMPE,Steve Osburn
+CSE,259,21267,Data Structures and Algorithms,TEMPE,Steve Osburn
+CSE,259,22355,Data Structures and Algorithms,TEMPE,Steve Osburn
+CSE,310,19683,Data Structures and Algorithms,ICOURSE,xue
+CSE,310,27283,Data Structures and Algorithms,TEMPE,xue
+CSE,310,23306,Data Structures and Algorithms,TEMPE,yezhou yang
+CSE,310,29114,Data Structures and Algorithms,TEMPE,xue
+CSE,310,19682,Data Structures and Algorithms,TEMPE,xue
+CSE,310,23309,Data Structures and Algorithms,TEMPE,xue
+CSE,310,11724,Data Structures and Algorithms,TEMPE,xue
+CSE,310,19687,Data Structures and Algorithms,TEMPE,xue
+CSE,310,23307,Data Structures and Algorithms,TEMPE,xue
+CSE,310,19688,Data Structures and Algorithms,TEMPE,xue
+CSE,310,23310,Design/Syn Digital Hardware,TEMPE,yezhou yang
+CSE,310,19684,Design/Syn Digital Hardware,TEMPE,xue
+CSE,310,23308,Design/Syn Digital Hardware,TEMPE,yezhou yang
+CSE,310,19685,Embedded Microprocessor System,TEMPE,xue
+CSE,310,19686,Embedded Microprocessor System,TEMPE,xue
+CSE,320,11274,Embedded Microprocessor System,TEMPE,FENGBO
+CSE,320,21374,Operating Systems,TEMPE,FENGBO
+CSE,320,21373,Operating Systems,TEMPE,FENGBO
+CSE,325,19690,Operating Systems,TEMPE,Meuth
+CSE,325,19691,Operating Systems,TEMPE,Meuth
+CSE,325,18820,Operating Systems,TEMPE,Meuth
+CSE,330,21168,Operating Systems,TEMPE,DASGUPTA
+CSE,330,20876,Operating Systems,TEMPE,Ayan
+CSE,330,21169,Operating Systems,TEMPE,DASGUPTA
+CSE,330,20872,Operating Systems,TEMPE,ZHAO
+CSE,330,19457,Operating Systems,TEMPE,DASGUPTA
+CSE,330,11269,Operating Systems,TEMPE,ZHAO
+CSE,330,20877,Operating Systems,TEMPE,Ayan
+CSE,330,21171,Operating Systems,TEMPE,DASGUPTA
+CSE,330,20875,Operating Systems,TEMPE,Ayan
+CSE,330,20878,Princ of Mobile App Dev,TEMPE,Ayan
+CSE,330,13028,Principles of Programming Lang,TEMPE,Ayan
+CSE,330,20874,Principles of Programming Lang,TEMPE,ZHAO
+CSE,330,20873,Principles of Programming Lang,TEMPE,ZHAO
+CSE,335,21044,Principles of Programming Lang,TEMPE,janaka
+CSE,340,19695,Principles of Programming Lang,TEMPE,Bazzi
+CSE,340,11315,Principles of Programming Lang,TEMPE,Bazzi
+CSE,340,29115,Principles of Programming Lang,TEMPE,Bazzi
+CSE,340,14190,Principles of Programming Lang,TEMPE,Bazzi
+CSE,340,19696,Principles of Programming Lang,TEMPE,Bazzi
+CSE,340,19692,Principles of Programming Lang,TEMPE,Bazzi
+CSE,340,19693,Intro Theoretical Computer Sci,TEMPE,Bazzi
+CSE,340,19698,Intro Theoretical Computer Sci,TEMPE,Bazzi
+CSE,340,19697,Intro Theoretical Computer Sci,TEMPE,Bazzi
+CSE,355,19708,Intro Theoretical Computer Sci,TEMPE,Ben Amor
+CSE,355,19705,Intro Theoretical Computer Sci,TEMPE,Fainekos
+CSE,355,19702,Intro Theoretical Computer Sci,TEMPE,colbourn
+CSE,355,19707,Intro Theoretical Computer Sci,TEMPE,Ben Amor
+CSE,355,19710,Intro Theoretical Computer Sci,TEMPE,Ben Amor
+CSE,355,14505,Intro Theoretical Computer Sci,TEMPE,colbourn
+CSE,355,19703,Intro Theoretical Computer Sci,TEMPE,Fainekos
+CSE,355,23314,Intro Theoretical Computer Sci,TEMPE,Fainekos
+CSE,355,19701,Intro Theoretical Computer Sci,TEMPE,colbourn
+CSE,355,19709,Intro Theoretical Computer Sci,TEMPE,Ben Amor
+CSE,355,19706,Intro Theoretical Computer Sci,TEMPE,Fainekos
+CSE,355,19704,Intro Theoretical Computer Sci,TEMPE,Fainekos
+CSE,355,19700,Intro to Software Engineering,TEMPE,colbourn
+CSE,355,23315,Intro to Software Engineering,TEMPE,Ben Amor
+CSE,360,11301,Information Assurance,TEMPE,callis
+CSE,360,26013,Multimedia Information Systems,TEMPE,callis
+CSE,365,21120,Database Management,TEMPE,fish wang
+CSE,365,30853,Computer Architecture I,TEMPE,fish wang
+CSE,408,21593,Systems Capstone Project I,TEMPE,Staff
+CSE,412,21128,Systems Capstone Project I,TEMPE,sarwat
+CSE,420,11268,Systems Capstone Project I,TEMPE,aviral
+CSE,423,13030,Systems Capstone Project I,TEMPE,Meuth
+CSE,423,13030,Systems Capstone Project II,TEMPE,Meuth
+CSE,424,11212,Systems Capstone Project II,TEMPE,meuth
+CSE,424,11212,Systems Capstone Project II,TEMPE,Meuth
+CSE,434,11223,Systems Capstone Project II,TEMPE,syrotiuk
+CSE,445,11326,Computer Networks,TEMPE,janaka
+CSE,446,14506,Distributed Software Developmt,TEMPE,chen
+CSE,450,21121,Software Integration and Engr,TEMPE,Richa
+CSE,460,11725,Design&Analysis of Algorithms,TEMPE,Sarjoughian
+CSE,463,14179,Software Analysis and Design,TEMPE,Atkinson
+CSE,464,21784,Intro Human Computer Interactn,TEMPE,janaka
+CSE,469,14518,Software QA and Testing,TEMPE,tiffany bao
+CSE,470,20425,Computer and Network Forensics,TEMPE,hansford
+CSE,471,13070,Computer Graphics,TEMPE,Gil
+CSE,485,20117,Intro Artificial Intelligence,TEMPE,helen
+CSE,485,23019,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,485,30990,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,485,13081,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,485,20118,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,485,20119,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,485,26090,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,485,30991,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,486,17141,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,486,19979,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,486,19293,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,486,20121,Computer Sci Capstone Proj I,TEMPE,helen
+CSE,486,20120,Computer Sci Capstone Proj II,TEMPE,helen
+CSE,486,11222,Computer Sci Capstone Proj II,TEMPE,helen
+CSE,510,13029,Computer Sci Capstone Proj II,TEMPE,candan
+CSE,512,21124,Computer Sci Capstone Proj II,TEMPE,sarwat
+CSE,520,21131,Computer Sci Capstone Proj II,TEMPE,lee
+CSE,530,32110,Embed Operating Sys Internals,TEMPE,lee
+CSE,535,19325,Computer Sci Capstone Proj II,TEMPE,Ayan
+CSE,543,27374,Computer Sci Capstone Proj II,TEMPE,yau
+CSE,545,18810,Computer Sci Capstone Proj II,TEMPE,yau
+CSE,546,21127,Computer Sci Capstone Proj II,TEMPE,zhao
+CSE,551,23343,Computer Sci Capstone Proj II,TEMPE,sen
+CSE,551,30959,Introduction to Engineering,TEMPE,sen
+CSE,555,27203,Introduction to Engineering,TEMPE,colbourn
+CSE,564,27211,Grand Challenges for Engrg,TEMPE,sarjoughian
+CSE,566,11339,Tech; Social; & Sustain System,TEMPE,collofello
+CSE,571,27252,Topic: Exploring Leadership Potential,TEMPE,Zhang
+CSE,572,25946,Entrepreneur & Value Creation,TEMPE,Ayan
+CSE,572,30961,Topic: Academic Success and Professional Development,TEMPE,AYAN
+CSE,573,27254,Strategic Enterprise Innovatin,TEMPE,Davulcu
+CSE,575,27223,Intro Industrial Engineering,TEMPE,Yang
+CSE,576,23382,Business/Industrial Engr,TEMPE,chitta baral
+CSE,578,30962,Economic Analys for Engineers,TEMPE,hsiao
+CSE,591,27953,Seminar,TEMPE,Liang
+CSE,591,27334,Seminar,TEMPE,Yu Zhang
+CSE,591,32123,Seminar,TEMPE,Fainekos
+CSE,591,16401,Seminar,TEMPE,Yang
+CSE,591,18782,Seminar,TEMPE,Amor
+FSE,100,27635,Introduction to Engineering,TEMPE,Chen
+FSE,100,83218,Introduction to Engineering,TEMPE,Meuth
+FSE,150,82455,Grand Challenges for Engrg,TEMPE,Trowbridge
+FSE,181,79345,Tech; Social; & Sustain System,TEMPE,Allenby
+FSE,194,90190,Topic: Exploring Leadership Potential,TEMPE,Silva
+FSE,301,87876,Entrepreneur & Value Creation,TEMPE,Troness
+FSE,394,85759,Topic: Academic Success and Professional Development,TEMPE,Anderson-Rowland
+FSE,502,92378,Strategic Enterprise Innovatin,TEMPE,Trappen
+IEE,210,71307,Intro Industrial Engineering,TEMPE,Clough
+IEE,220,73291,Business/Industrial Engr,TEMPE,Fleischner
+IEE,300,71308,Economic Analys for Engineers,TEMPE,Jennings
+IEE,376,71310,Oper Rsrch Det Tech/Apps,TEMPE,Mirchandani
+IEE,380,77308,Prob & Stats Engr Prob Solving,TEMPE,Chattin
+IEE,380,87728,Prob & Stats Engr Prob Solving,TEMPE,Bren
+IEE,385,80376,Engr Statistics - Probability,TEMPE,Chattin
+IEE,394,78677,Topic: Extreme Excel,TEMPE,McCarville
+IEE,412,80379,Intro to Financial Engineering,TEMPE,McCarville
+IEE,426,91345,Operations Rrsch in Healthcare,TEMPE,Wu
+IEE,431,91929,Engineering Administration,TEMPE,Jennings
+IEE,437,71311,Human Factors Engineering,TEMPE,Parry
+IEE,454,77730,Risk Management,TEMPE,McCarville
+IEE,461,77813,Production Control,TEMPE,Chattin
+IEE,470,72508,Stochastic Operations Research,TEMPE,Ju
+IEE,474,74270,Quality Control,TEMPE,Li
+IEE,506,91213,Web-Enabled Decn Support Systs,TEMPE,Ye
+IEE,511,75531,Analysis of Decision Processes,TEMPE,Mirchandani
+IEE,512,91879,Intro to Financial Engineering,TEMPE,McCarville
+IEE,520,72692,Stat Learning for Data Mining,TEMPE,Runger
+IEE,526,91346,Operations Rrsch in Healthcare,TEMPE,Wu
+IEE,545,91992,Simulating Stochastic Systems,TEMPE,Staff
+IEE,547,71313,Human Factors Engineering,TEMPE,Parry
+IEE,571,92066,Quality Management,TEMPE,Jennings
+IEE,572,75775,Design Engineering Experiments,TEMPE,Montgomery
+IEE,573,91770,Reliability Engineering,TEMPE,Pan
+CSE,110,10000,Prin of Programming with C++,TEMPE,Faye
+ASU,101,10001,ASU Experience,TEMPE,Micheal
+PSY,101,10002,Intro to Psychology,TEMPE,Mae
+CSE,120,10003,Digital Design,TEMPE,Chikamenhalli
+CSE,205,10004,Object-Oriented Program & Data,TEMPE,mutsumi
+BIO,182,10005,Biology 2,TEMPE,Shaffer
+IEE,380,10006,Prob & Stats Engr Prob Solving,TEMPE,Clough
+MAT,240,10007,Discrete Math,TEMPE,Knutson
+CSE,310,10008,Data Structures and Algorithms,TEMPE,Feng
+ASU,471,10009,Intro to AI,TEMPE,kambhapati
