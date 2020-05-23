@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1552817362 source:c:\users\khanm\desktop\cse 340\project 3\inputbuf.cpp
+	<iostream>
+	<istream>
+	<vector>
+	<string>
+	<cstdio>
+	"inputbuf.h"
+
+1552817362 c:\users\khanm\desktop\cse 340\project 3\inputbuf.h
+	<string>
+
+1554092884 source:c:\users\khanm\desktop\cse 340\project 3\lexer.cpp
+	<iostream>
+	<istream>
+	<vector>
+	<string>
+	<cctype>
+	"lexer.h"
+	"inputbuf.h"
+
+1554085512 c:\users\khanm\desktop\cse 340\project 3\lexer.h
+	<vector>
+	<string>
+	"inputbuf.h"
+
