@@ -1,0 +1,1 @@
+In this lab, a game is implemented. It uses gestures and timer. Users have to use the arrow to move a monkey and collect all apples within 15 minutes. The 15 seconds timer will start countdown once the app is started. They have to collect all apples withing 15 seconds to win the game.
