@@ -1,0 +1,1 @@
+CSE 335: Mobile App Development Projects. I created several small to large scale iOS application this couse. Swift (Xcode) was used to implement those projects. The components of the project include segues, data source and delegate methods, use of UIImage, uploading image from the device, tableviews, mapkit, coredata, etc.
